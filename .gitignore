@@ -1,0 +1,11 @@
+.metadata
+.project
+.classpath
+.settings
+target
+logs
+Release
+configuration.xml
+*.bak
+*.jar
+*.class
